@@ -1,0 +1,14 @@
+.border-color{
+    border-color:#ffd480;
+}
+.card-header,.card-footer{
+    background-color: white !important;
+    ;
+}
+.center-register{
+    margin: auto;
+    width: 65%;
+ }
+.card{
+    margin-top:5rem;
+}
